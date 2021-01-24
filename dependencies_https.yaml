@@ -1,0 +1,8 @@
+repositories:
+  catkin_simple:
+    type: git
+    url: https://github.com/catkin/catkin_simple.git
+    version: master
+
+
+

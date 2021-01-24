@@ -1,0 +1,5 @@
+k_m: [0.0, 0.0, 0.0]  # gain for magnetometer
+k_a: [1.0, 1.0, 0.0]  # gain for accelerometer
+k_b: [0.1, 0.1, 0.1]  # gain for gyrometer
+
+dt: 0.005  #sampling time
